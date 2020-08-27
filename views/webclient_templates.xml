@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="login_layout" inherit_id="web.login_layout" name="Login Layout Debrand">
+        <xpath expr="//a[contains(@href,'web/database/manager')]" position="attributes">
+            <attribute name="class"></attribute>
+        </xpath>
+        <xpath expr="//a[contains(@href,'www.odoo.com')]" position="replace">
+        </xpath>
+    </template>
+</odoo>
