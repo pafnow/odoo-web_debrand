@@ -1,7 +1,7 @@
 # Copyright 2020 Pafnow
 {
     'name': "Web Debrand",
-    'version': "13.0.1.0.0",
+    'version': "14.0.1.0.0",
     'description': 'Web Debrand',
     'author': "MRM, Pafnow",
     'company': "MRM",
